@@ -1,45 +1,117 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome USER_NAME,
+# **FurSpot**   
+A Milestone Project completed by Shell George for the Diploma in Software Development; delivered by Code Institute.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
 
-## Gitpod Reminders
+This would be my **second** project that I have completed, and I will be submitting for my Milestone project for the Code Institute. The inspiration for this project was inspired by BuzzFeed quizzes to pass time.  
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
 
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+View the deployed website here: **[FurSpot](https://shellgeo.github.io/ms2_furspot/ "FurSpot | A fun quiz to pass time")**
 
 ---
 
-Happy coding!
+## Table of Contents
+1. [User Experience Design]()
+    - [Strategy](#Strategy)
+    - [Scope](#Scope)
+    - [Structure](#Structure)
+    - [Skeleton](#Skeleton)
+        - [Wireframes](#Wireframes)
+        - [Design](#Design)
+    - [Surface](#Surface)
+        - [Features](#Features)
+        - [Testing](#Testing)
+            
+            
+2. [Deployment](#Deployment)
+
+3. [Credits](#Credits)
+
+
+
+___
+# User Experience Design 
+## **Strategy**  
+### User Needs & Objectives: 
+
+ **Focus:** Th
+
+ **Definition:** Th
+
+ **Value:** Th
+
+## **Scope** 
+
+### Functional Specification:
+This section is split up into two separate segments for the Owner and the User.
+
+
+**Owner Goals:**
+ - E
+
+**User Goals:**
+
+First time user - 
+ - F
+
+
+Regular or returning user - 
+ - H
+
+
+ _____
+
+## Deployment
+
+This project was developed on [GitPod](https://gitpod.io/). 
+
+Once this was done a repository was made in Github. This then allowed me to publish a live site for my project. I followed this [guide](https://docs.github.com/en/get-started/quickstart/create-a-repo) to ensure that this was done correctly. 
+
+**Steps to deploy page from a GitHub repository:**
+1. Navigate to your Repository section, select the Repository you want to deploy.
+2. Look for the 'Settings' option in Menu bar, and click this to view additional settings.
+3. Under the settings page, locate the **Pages** section in the sidebar.
+4. Under Source, select the 'None'' button and change it to Master and click Save.
+5. Once the page is live you will see the following message "Your site is ready to be published at (Link to the GitHub Live Page)". This is the Link you would need to use to submit your Milestone project.
+
+**How to fork this repository:**
+1. Log into GitHub with your account.
+2. Locate my repo for this project.
+3. On the right side of the screen locate the 'Fork' button and click it.
+4. This gives the option to create a copy in your own repository and make changes using GitPod.
+5. Once you have finished with changes 'add, commit and push' to your own GitHub.
+6. Click Pull Requests and select 'New Pull Request' button.
+
+**How to clone this project to run it locally:**
+
+1. Navigate to the GitHub Repository.
+2. Above the files click the green Download Code link.
+3. To clone using HTTPS click the clipboard symbol under 'Clone with HTTPS'. 
+     - To clone using SSH key click Use SSH then click the clipboard symbol. 
+     - To clone using GitHub CLI select Use GitHub CLI and click the clipboard symbol.
+4. Open Git Bash.
+5. Change the working directory to the location you want the cloned directory to be.
+6. Type 'git clone' and paste the url copied from step 3.
+7. Press 'enter' to create your clone.
+________
+
+## Credits 
+
+The following people helped me finish my project by offering me advice and guidance:
+
+- Spencer Barriball: Mentor
+
+- Suzie Bennett: Peer 
+-
+
+**Additional Credits**
+- Code Institute
+- Stack Overflow
+- Youtube
+- GeeksforGeeks
+
+Media: 
+
+________
