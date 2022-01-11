@@ -19,6 +19,9 @@
       "**/CVS": true
    },
    "files.autoSave": "off",
-   "workbench.colorTheme": "Visual Studio Dark",
+   "workbench.colorTheme": "Bearded Theme Vivid Purple",
    "editor.defaultFormatter": "HookyQR.beautify",
+   "cSpell.words": [
+      "lockdown"
+   ],
 }
