@@ -18,7 +18,7 @@
       "**/core.python*": true,
       "**/CVS": true
    },
-   "files.autoSave": "off",
+   "files.autoSave": "on",
    "workbench.colorTheme": "Bearded Theme Vivid Purple",
    "editor.defaultFormatter": "HookyQR.beautify",
    "cSpell.words": [
